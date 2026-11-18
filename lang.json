@@ -1,0 +1,9 @@
+{
+  "languages": ["es", "zh", "hi", "ar", "pt", "fr", "de", "ru"],
+  "keys": {
+    "no events broker was given": ["no se entregó un broker de eventos", "未提供事件代理", "कोई इवेंट ब्रोकर नहीं दिया गया", "لم يتم تقديم وسيط أحداث", "nenhum broker de eventos foi fornecido", "aucun broker d'événements n'a été fourni", "es wurde kein Event-Broker übergeben", "брокер событий не передан"],
+    "no function was given to receive security events": ["no se entregó una función para recibir los eventos de seguridad", "未提供接收安全事件的函数", "सुरक्षा इवेंट प्राप्त करने के लिए कोई फ़ंक्शन नहीं दिया गया", "لم يتم تقديم دالة لاستقبال أحداث الأمان", "nenhuma função foi fornecida para receber os eventos de segurança", "aucune fonction n'a été fournie pour recevoir les événements de sécurité", "es wurde keine Funktion zum Empfangen der Sicherheitsereignisse übergeben", "не передана функция для получения событий безопасности"],
+    "the event has no known kind": ["el evento no tiene un tipo conocido", "该事件没有已知的类型", "इवेंट का कोई ज्ञात प्रकार नहीं है", "الحدث ليس له نوع معروف", "o evento não tem um tipo conhecido", "l'événement n'a pas de type connu", "das Ereignis hat keine bekannte Art", "у события нет известного типа"],
+    "the reporter was not created with New": ["el reportero no se creó con New", "报告器不是用 New 创建的", "रिपोर्टर New से नहीं बनाया गया था", "لم يتم إنشاء المُبلِّغ باستخدام New", "o relator não foi criado com New", "le rapporteur n'a pas été créé avec New", "der Reporter wurde nicht mit New erstellt", "репортёр создан не через New"]
+  }
+}
